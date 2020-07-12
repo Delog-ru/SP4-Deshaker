@@ -82,24 +82,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Icon1.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\1.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\2.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\3.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\4.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\5.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="0.ico" />
     <None Include="Resources\5 %281%29.ico" />
     <None Include="Resources\4 %281%29.ico" />
